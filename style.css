@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(46, 46, 46);
+    color: rgb(228, 241, 241);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    color: rgb(209, 209, 209);
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    transition: 0.4s;
+    background-color: rgb(140, 155, 197);
+    font-size: 1.05rem;
+    color: rgb(85, 87, 107);
+}
+
